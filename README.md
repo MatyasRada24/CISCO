@@ -10,19 +10,19 @@ Přiřazený rozsah: 192.168.24.0 / 24
 ![IP Konfigurace PC1](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/PC1-ping.PNG?raw=true)
 
 ### Ping test z PC1
-![Ping test]([C:\Users\PC\Desktop\CISCO\PC1-ping.PNG](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/PC1.-ip-config.PNG?raw=true))
+![Ping test](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/PC1.-ip-config.PNG?raw=true)
 
 ### Konfigurace DHCP na SRV1
-![DHCP Konfigurace](C:\Users\PC\Desktop\CISCO/SRV1-DHCP.PNG)
+![DHCP Konfigurace](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/SRV1-DHCP.PNG?raw=true)
 
 ### Konfigurace DNS na SRV1
-![DNS Konfigurace](C:\Users\PC\Desktop\CISCO/SRV1-DNS.PNG)
+![DNS Konfigurace](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/SRV1-DNS.PNG?raw=true)
 
 ### Nastavení přepínače (Switch)
-![Nastavení Switche](C:\Users\PC\Desktop\CISCO/Switch-settings.PNG)
+![Nastavení Switche](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/Switch-settings.PNG?raw=true)
 
 ### Test webového serveru
-![Webový server](C:\Users\PC\Desktop\CISCO/Web.png)
+![Webový server](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/Web.PNG?raw=true)
 
 ### Schéma Ethernet rámce
 ![Ethernet rámec](C:\Users\PC\Desktop\CISCO/ccwwa.PNG)
