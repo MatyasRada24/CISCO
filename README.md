@@ -4,7 +4,6 @@ Výpočet: R(82) + A(65) + D(68) + A(65) = 280
 X = 280 mod 256 = 24
 Přiřazený rozsah: 192.168.24.0 / 24
 
-## Snímky obrazovky
 
 ### Konfigurace PC1
 ![IP Konfigurace PC1](https://github.com/MatyasRada24/CISCO/blob/main/CISCO/PC1-ping.PNG?raw=true)
