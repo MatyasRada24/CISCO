@@ -1,1 +1,28 @@
-# CISCO
+## Výpočet sítě (X)
+Moje příjmení: RADA
+Výpočet: R(82) + A(65) + D(68) + A(65) = 280
+X = 280 mod 256 = 24
+Přiřazený rozsah: 192.168.24.0 / 24
+
+## Snímky obrazovky
+
+### Konfigurace PC1
+![IP Konfigurace PC1](PC1.-ip-config.PNG)
+
+### Ping test z PC1
+![Ping test](PC1-ping.PNG)
+
+### Konfigurace DHCP na SRV1
+![DHCP Konfigurace](SRV1-DHCP.PNG)
+
+### Konfigurace DNS na SRV1
+![DNS Konfigurace](SRV1-DNS.PNG)
+
+### Nastavení přepínače (Switch)
+![Nastavení Switche](Switch-settings.PNG)
+
+### Test webového serveru
+![Webový server](Web.PNG)
+
+### Schéma Ethernet rámce
+![Ethernet rámec](ccwwa.PNG)
