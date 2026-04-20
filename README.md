@@ -22,7 +22,7 @@ Přiřazený rozsah: 192.168.24.0 / 24
 ![Nastavení Switche](Switch-settings.PNG)
 
 ### Test webového serveru
-![Webový server](Web.PNG)
+![Webový server](CISCO/Web.png)
 
 ### Schéma Ethernet rámce
 ![Ethernet rámec](ccwwa.PNG)
