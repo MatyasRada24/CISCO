@@ -7,7 +7,7 @@ Přiřazený rozsah: 192.168.24.0 / 24
 ## Snímky obrazovky
 
 ### Konfigurace PC1
-![image alt]([C:\Users\PC\Desktop\CISCO\PC1.-ip-config.PNG](https://github.com/MatyasRada24/CISCO/blob/acce9751835cb6b4a8049ef81774e525a4a99786/CISCO/PC1-ping.PNG))
+![IP Konfigurace PC1]([C:\Users\PC\Desktop\CISCO\PC1.-ip-config.PNG](https://github.com/MatyasRada24/CISCO/blob/acce9751835cb6b4a8049ef81774e525a4a99786/CISCO/PC1-ping.PNG))
 
 ### Ping test z PC1
 ![Ping test](C:\Users\PC\Desktop\CISCO\PC1-ping.PNG)
